@@ -1,0 +1,10 @@
+tạo nhánh
+git branch v3
+sử dụng nhánh
+git checkout v3
+lưu những gì đã thay đổi
+git add .
+commit code
+git commit -m"ghi chú"
+muốn đẩy code lên ở nhánh hiện tại
+git push origin v3
